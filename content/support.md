@@ -61,4 +61,4 @@ Open a support issue at [github.com/Moonight-Studio/RemoteFS/issues](https://git
 
 Version 1.2.0 test builds offer a seven-day trial and a one-time lifetime unlock, without automatic billing or a subscription. Use Restore Purchases to restore verified Apple purchases. TestFlight purchases are free test transactions and do not transfer to the production app.
 
-In iOS 1.2.0 (13), disconnecting retains offline media indexes. Storage → ⋯ → Remove Connection removes saved configuration, credentials and that connection’s media index; it does not delete server files or securely erase every preview cache. Use Settings for cache management.
+In iOS 1.2.0 (14), disconnecting retains offline media indexes. Storage → ⋯ → Remove Connection removes saved configuration, credentials and that connection’s media index; it does not delete server files or securely erase every preview cache. Use Settings for cache management.

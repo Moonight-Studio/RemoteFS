@@ -45,14 +45,14 @@ Do not post server passwords or private files in an issue.
 版本和构建号一致的材料。你可以为自己使用修改解码库并重新链接应用，也可以为
 调试这些修改进行必要的逆向工程。第三方组件仍适用各自的许可条款。
 
-## Bundled notices: ios-1.2.0-13
+## Bundled notices: ios-1.2.0-14
 
-[Component inventory and license file references](notices/ios-1.2.0-13/index.json). Exact older inventories remain inside the matching release kits.
+[Component inventory and license file references](notices/ios-1.2.0-14/index.json). Exact older inventories remain inside the matching release kits.
 
-## Bundled notices: macos-1.2.0-2026.9.13
+## Bundled notices: macos-1.2.0-2026.9.16
 
-[Component inventory and license file references](notices/macos-1.2.0-2026.9.13/index.json). Exact older inventories remain inside the matching release kits.
+[Component inventory and license file references](notices/macos-1.2.0-2026.9.16/index.json). Exact older inventories remain inside the matching release kits.
 
-[Browse macos-1.2.0-2026.9.13 license documents](notices-macos-1.2.0-2026.9.13.html)
+[Browse macos-1.2.0-2026.9.16 license documents](notices-macos-1.2.0-2026.9.16.html)
 
-[Browse ios-1.2.0-13 license documents](notices-ios-1.2.0-13.html)
+[Browse ios-1.2.0-14 license documents](notices-ios-1.2.0-14.html)

@@ -1,0 +1,5 @@
+russh-util 0.46.0 source notices
+
+Retain the original license/copyright headers found in this exact registry package. Cargo.lock and the original crate archive identify the source; Git VCS metadata is not used as a source-identity assertion.
+
+
