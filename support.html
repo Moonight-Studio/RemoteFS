@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="referrer" content="no-referrer"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'"><title>RemoteFS Support · Moonight Studio</title><meta name="description" content="RemoteFS support, privacy and third-party materials for Mac, iPhone and iPad."><link rel="stylesheet" href="style.css"></head><body><header><a class="brand" href="index.html">Moonight Studio / RemoteFS</a><nav aria-label="Main navigation"><a href="index.html">Home</a><a href="support.html">Support</a><a href="privacy-policy.html">Privacy</a><a href="legal.html">Licenses</a><a href="downloads.html">Downloads</a><a href="support-zh.html" lang="zh-Hans">中文</a></nav></header><main><p class="eyebrow">RemoteFS · Support & resources</p><p><a href="support-zh.html">简体中文</a></p><h1>RemoteFS Support</h1>
+<p>RemoteFS helps users browse and manage remote files over SFTP, FTP, and WebDAV.</p>
+<h2>Before Contacting Support</h2>
+<p>Please include the following information when reporting an issue:</p>
+<ul>
+<li>RemoteFS version.</li>
+<li>macOS, iOS, or iPadOS version and device model.</li>
+<li>Protocol in use: SFTP, FTP, or WebDAV.</li>
+<li>A short description of the server type, for example OpenSSH SFTP, Apache WebDAV, or NAS WebDAV.</li>
+<li>The operation that failed, such as connect, list directory, preview, upload, download, rename, or delete.</li>
+<li>The exact error message shown by the app.</li>
+</ul>
+<p>Do not send passwords, private keys, passphrases, sensitive server names, sensitive file paths, or sensitive file contents.</p>
+<h2>Common Troubleshooting</h2>
+<h3>Connection Fails</h3>
+<p>Verify the server address, port, username, password, and protocol. For SFTP, confirm that the server accepts the selected authentication method. For WebDAV, confirm that the URL points to the correct WebDAV root.</p>
+<h3>Transport Security</h3>
+<p>Use SFTP or WebDAV over HTTPS for sensitive data. Plain FTP is not encrypted by RemoteFS and should only be used on networks where that risk is acceptable.</p>
+<h3>Preview Is Slow</h3>
+<p>Preview speed depends on the remote server, network latency, and file size. RemoteFS caches thumbnails locally. You can adjust or clear the thumbnail cache in Settings.</p>
+<h3>Local Discovery Finds Nothing</h3>
+<p>Choose Scan Local Network from Storage and allow local-network access when prompted. Discovery uses Bonjour advertisements and cannot find every device on every network. Check that the server advertises a supported service, or add its address manually. Guest Wi-Fi isolation, VLAN boundaries, and VPN routing may prevent discovery.</p>
+<h3>A Video Does Not Play</h3>
+<p>In native Apple builds, native playback is supplemented by an embedded compatibility player for additional AVI, MKV, and WebM codec combinations. A filename extension alone does not identify its codec or guarantee support. Report the container, codec/profile when known, app version, and sanitized error; do not send private video content. Network errors during a read are distinct from unsupported decoding. DRM-protected media is not supported.</p>
+<h3>Upload or Download Fails</h3>
+<p>Check that the destination folder is writable and that the remote server has enough available space. If the network is unstable, retry after reconnecting.</p>
+<h3>Cached Thumbnails Look Stale</h3>
+<p>RemoteFS keys thumbnail cache entries by path, size, and modification time when available. If the server reports unstable modification times, clear the thumbnail cache from Settings.</p>
+<h2>Data and Privacy</h2>
+<p>RemoteFS does not collect analytics or send remote file data to developer-operated servers. See <a href="privacy-policy.html">Privacy Policy</a> for details.</p>
+<h2>Third-Party Notices</h2>
+<p>RemoteFS includes third-party open source components. Native Apple builds provide full local notice documents in Settings under Open Source Licenses, backed by the bundled <code>NativeNotices</code> resources. Older Mac builds may contain third-party notices as <code>ThirdPartyNotices.md</code>.</p>
+<h2>Support Contact</h2>
+<p>Open a support issue at <a href="https://github.com/Moonight-Studio/RemoteFS/issues">github.com/Moonight-Studio/RemoteFS/issues</a>. When reporting an issue, include the troubleshooting details listed above and remove any private server names, credentials, or sensitive file paths.</p>
+<h2>Trial and Connection Removal</h2>
+<p>Version 1.2.0 test builds offer a seven-day trial and a one-time lifetime unlock, without automatic billing or a subscription. Use Restore Purchases to restore verified Apple purchases. TestFlight purchases are free test transactions and do not transfer to the production app.</p>
+<p>In iOS 1.2.0 (13), disconnecting retains offline media indexes. Storage → ⋯ → Remove Connection removes saved configuration, credentials and that connection’s media index; it does not delete server files or securely erase every preview cache. Use Settings for cache management.</p></main><footer>Moonight Studio · RemoteFS<br><a href="https://github.com/Moonight-Studio/RemoteFS/issues">Contact support</a> · <a href="https://github.com/Moonight-Studio/RemoteFS">Public materials</a></footer></body></html>
