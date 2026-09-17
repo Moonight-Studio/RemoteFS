@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.0-16/RemoteFS-iOS-1.2.0-16-device-relink.tar.gz",
+    "sha256": "084baa53d8bc7e71c77917d0f2949f94b71485619163f2a9ce98740018aedfa7",
+    "bytes": 47590387,
+    "verifiedAt": "2026-09-17T09:50:13.140Z",
+    "authentication": "none"
+  },
+  {
+    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.0-2026.9.18/RemoteFS-macOS-1.2.0-2026.9.18-relink.tar.gz",
+    "sha256": "309a20a436babeb12142e6c5a955f9dc10c1610cc0bd8193999b8ad184d39803",
+    "bytes": 47975678,
+    "verifiedAt": "2026-09-17T09:51:16.022Z",
+    "authentication": "none"
+  }
+]

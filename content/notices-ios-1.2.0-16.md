@@ -1,0 +1,2273 @@
+# ios-1.2.0-16 · Third-party notices
+
+Original license documents from the distributed app. Components retain their own terms. A license identifier alone is not a license for the proprietary application.
+
+## adler2 2.0.1
+
+0BSD OR MIT OR Apache-2.0
+
+- [LICENSE-0BSD](notices/ios-1.2.0-16/texts/861399f8c21c042b110517e76dc6b63a2b334276c8cf17412fc3c8908ca8dc17.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/8ada45cd9f843acf64e4722ae262c622a2b3b3007c7310ef36ac1061a30f6adb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## aead 0.5.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/b1cf9a3333ca78152b859012cd4a804156e5243e9ca20ad1df7327ba5ea7405c.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/949ab7b3e7140fee216f06fe3a2bd67d68dd511f8ea73c1e01c98cb348e9c8ae.txt)
+
+## aes 0.8.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/f7e8ab639afef15573680c97f796166835cbeb3865175882fea41c60d106b733.txt)
+
+## aes-gcm 0.10.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/3c0dfa33fd2e6976038555b52095699452653b1fcabe113074f14e0848a6b11e.txt)
+
+## ahash 0.8.12
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0444c6991eead6822f7b9102e654448d51624431119546492e8b231db42c48bb.txt)
+
+## aho-corasick 1.1.4
+
+Unlicense OR MIT
+
+- [COPYING](notices/ios-1.2.0-16/texts/01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f.txt)
+
+- [UNLICENSE](notices/ios-1.2.0-16/texts/7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c.txt)
+
+## ass libass-0.17.3.tar.gz
+
+ISC
+
+- [COPYING](notices/ios-1.2.0-16/texts/f7e30699d02798351e7f839e3d3bfeb29ce65e44efa7735c225464c4fd7dfe9c.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/85c4e601a08378b5a27e307a63842477df6d9f5cb1cf4595b715c71dc22aba6b.txt)
+
+## async-trait 0.1.89
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## atomic-waker 1.1.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+- [LICENSE-THIRD-PARTY](notices/ios-1.2.0-16/texts/6226d0632e2e1a80c23597e964da9812ae193c535fe058154afb034e94167aa5.txt)
+
+## autocfg 1.5.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/27995d58ad5c1145c1a8cd86244ce844886958a35eb2b78c6b772748669999ac.txt)
+
+## base16ct 0.2.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0aa8963e105e8b6e02f634484145d4e5b0f42d0a6dd05c16f8148f033383adef.txt)
+
+## base64 0.22.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0dd882e53de11566d50f8e8e2d5a651bcf3fabee4987d70f306233cf39094ba7.txt)
+
+## base64ct 1.8.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/2d1c57bff28344b9e698f51063bc8509799cc4c99a4e0cf2aa3f7e7c3e1f9a9d.txt)
+
+## bcrypt-pbkdf 0.10.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/3708458dee7f359ac6c9c5558023ed481be87e5372c43ebd7f2ca7ad23c12026.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/2fd18bfb8c046ba25fc4e31cdaf9c545310cb48aad8eee0f1b9e20e64033454b.txt)
+
+## bitflags 2.11.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## block-buffer 0.10.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d5c22aa3118d240e877ad41c5d9fa232f9c77d757d4aac0c2f943afc0a95e0ef.txt)
+
+## block-padding 0.3.3
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d5c22aa3118d240e877ad41c5d9fa232f9c77d757d4aac0c2f943afc0a95e0ef.txt)
+
+## block2 0.6.2
+
+MIT
+
+- [objc2-b4167b58.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## blowfish 0.9.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/52232c2cee3bb7d8cabe47ef367f1bf8bb607c22bdfca0219d6156cb7f446e9d.txt)
+
+## bytemuck 1.25.0
+
+Zlib OR Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/e3ba223bb1423f0aad8c3dfce0fe3148db48926d41e6fbc3afbbf5ff9e1c89cb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/9df9ba60a11af705f2e451b53762686e615d86f76b169cf075c3237730dbd7e2.txt)
+
+- [LICENSE-ZLIB](notices/ios-1.2.0-16/texts/84b34dd7608f7fb9b17bd588a6bf392bf7de504e2716f024a77d89f1b145a151.txt)
+
+## byteorder 1.5.0
+
+Unlicense OR MIT
+
+- [COPYING](notices/ios-1.2.0-16/texts/01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f.txt)
+
+- [UNLICENSE](notices/ios-1.2.0-16/texts/7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c.txt)
+
+## byteorder-lite 0.1.0
+
+Unlicense OR MIT
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f.txt)
+
+- [UNLICENSE](notices/ios-1.2.0-16/texts/7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c.txt)
+
+## bytes 1.11.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/45f522cacecb1023856e46df79ca625dfc550c94910078bd8aec6e02880b3d42.txt)
+
+## cbc 0.1.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/63af4bea227c94d021e99427f6ca3a4b8efddadcca93ab6130f708cf6138cf68.txt)
+
+## cc 1.2.62
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## cfg-if 1.0.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## chacha20 0.9.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b6f6f01b03ee7e93c0ae96d62ed39527e98a120fb951afc9de456a741ef3f204.txt)
+
+## chrono 0.4.44
+
+MIT OR Apache-2.0
+
+- [LICENSE.txt](notices/ios-1.2.0-16/texts/946c9835d8034d24404f8cfec5f4654cee5dad17e944afc3d06d742cf2882831.txt)
+
+## cipher 0.4.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/5c7bd92d1f096f12203dc1b601e3cb17484fa1b023e30b6b8edcc80e416237ec.txt)
+
+## color_quant 1.1.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/592dc80f1a865d20d61a2006a2d29ce34a2bc28cd7e868ab300fdeed6da154ca.txt)
+
+## const-oid 0.9.6
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/bada9e7ed8dc00d63502053c455d7c8d7575dfb7e8277a2a832531844d900682.txt)
+
+## core-foundation-sys 0.8.7
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/62065228e42caebca7e7d7db1204cbb867033de5982ca4009928915e4095f3a3.txt)
+
+## cpufeatures 0.2.17
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/ae9baa7beea910273c2f384c2a6b721fb7bd02bda3436074a1072e4ee689f985.txt)
+
+## crc32fast 1.5.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/61d383b05b87d78f94d2937e2580cce47226d17823c0430fbcad09596537efcf.txt)
+
+## crossbeam-utils 0.8.21
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/5734ed989dfca1f625b40281ee9f4530f91b2411ec01cb748223e7eb87e201ab.txt)
+
+## crypto-bigint 0.5.5
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/90c503b61dee04e1449c323ec34c229dfb68d7adcb96c7e140ee55f70fce2d8e.txt)
+
+## crypto-common 0.1.7
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/3521672491a3479422d5fe1aca6645dd2984090f85da6e5205abfb18fb7a6897.txt)
+
+## ctr 0.9.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/63af4bea227c94d021e99427f6ca3a4b8efddadcca93ab6130f708cf6138cf68.txt)
+
+## curve25519-dalek 4.1.3
+
+BSD-3-Clause
+
+- [LICENSE](notices/ios-1.2.0-16/texts/cca0bd3c4fcdba74145ef9d49c62337e2c9fbf9368288f11d0547f1b0273219f.txt)
+
+## dashmap 6.2.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/16692e8cee4aa06e3913787497eba2d47c42002014136f5da67be6ee640e28a3.txt)
+
+## data-encoding 2.11.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/b68ad1a3367b825447089e1f8d6829b97f47a89eb78d2f4ebaef4672f5606186.txt)
+
+## dav1d dav1d-1.5.1.tar.xz
+
+BSD-2-Clause
+
+- [COPYING](notices/ios-1.2.0-16/texts/b327887de263238deaa80c34cdd2ff3e0ba1d35db585ce14a37ce3e74ee389e9.txt)
+
+- [doc/PATENTS](notices/ios-1.2.0-16/texts/335eca574598bf4ca181b12f708d6669e5a5e78c8e1513e5b35fa1f03901484b.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/ad329f7c67733208dc1c4c698428630c0ea23043006b9cc986dec458512dab2b.txt)
+
+## der 0.7.10
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/ad64fcb9589f162720f3cc5010ad76ca6ad3764e11861f9192c489df176bb71d.txt)
+
+## des 0.8.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/15b3f2c71c37b46995aaa90362fe18bff234e6bb3037746319013aaf4174ec5c.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/f0b2a49442d6a8d61245111da5c21ba50c1b7dc2a0b75053c8358162ddcc3453.txt)
+
+## digest 0.10.7
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/9e0dfd2dd4173a530e238cb6adb37aa78c34c6bc7444e0e10c1ab5d8881f63ba.txt)
+
+## dispatch2 0.3.1
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-8852b424.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## displaydoc 0.2.5
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## dvbpsi libdvbpsi-1.3.3.tar.bz2
+
+LGPL-2.1-or-later
+
+- [COPYING](notices/ios-1.2.0-16/texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/166d7a7160d6b96ff8b1eaf55c612dd8730bacc2f6d511f3427750791ddd1831.txt)
+
+## ebml libebml-1.4.3.tar.xz
+
+LGPL-2.1-or-later
+
+- [LICENSE.LGPL](notices/ios-1.2.0-16/texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/5b9e0bc9003acf87686abca8412282acef757ed7bf736f220ea8bf0c1569ff11.txt)
+
+## ecdsa 0.16.9
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/78779d420019e6b4630376af8e86b6b335ee8a2f89ede6e0411e0469a326aaa4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/bdebaf9156a298f8fdab56dd26cb5144673de522d80f4c0d88e0039145f147f9.txt)
+
+## ed25519 2.2.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/78779d420019e6b4630376af8e86b6b335ee8a2f89ede6e0411e0469a326aaa4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b3470648aff02beb36d7a53240fc9260ed80ed93bd43bace6b67d7ef7336ee33.txt)
+
+## ed25519-dalek 2.2.0
+
+BSD-3-Clause
+
+- [LICENSE](notices/ios-1.2.0-16/texts/7a313964a6e050794d2ad57f4863c11f6bbe055c0ae6ce2cf3b9fc45150bada3.txt)
+
+## elliptic-curve 0.13.8
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d27687b51f2874822c1530976b7e837eac4f308d94bf3dd42047011b7d437b47.txt)
+
+## errno 0.3.14
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8764a597675778ddfd4e25f81b08a05dbcf089ac05662df7613fe67f150e3aa2.txt)
+
+## fallible-iterator 0.3.0
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0816e154b159ba255c563f7c8c7df5bbb8cc5fc96f5ab8cf9f4743b4f41fe7eb.txt)
+
+## fallible-streaming-iterator 0.1.9
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8dcec5569a9be5b0e086c80faed6f1aefa670af0ec29cecc2f714303096887e0.txt)
+
+## fastrand 2.4.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## fdeflate 0.3.7
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c77a4cf9da729987d0fe7ccd811e3bd27393914ddf3d23467c18cc22954513b3.txt)
+
+## ff 0.13.1
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/3708458dee7f359ac6c9c5558023ed481be87e5372c43ebd7f2ca7ad23c12026.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8d0c1d1d4b2bebf5b9211f0e883d5a482b7808f3ed31320da14ddee95811f4ef.txt)
+
+## ffmpeg ffmpeg-4.4.8.tar.xz
+
+LGPL-2.1-or-later (configured without GPL/nonfree)
+
+- [COPYING.GPLv2](notices/ios-1.2.0-16/texts/8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643.txt)
+
+- [COPYING.GPLv3](notices/ios-1.2.0-16/texts/8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903.txt)
+
+- [COPYING.LGPLv2.1](notices/ios-1.2.0-16/texts/246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30.txt)
+
+- [COPYING.LGPLv3](notices/ios-1.2.0-16/texts/da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768.txt)
+
+- [LICENSE.md](notices/ios-1.2.0-16/texts/cb48bf09a11f5fb576cddb0431c8f5ed0a60157a9ec942adffc13907cbe083f2.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/f96e306f4cfba1917f4444901499ad37d62f0661f3f904f7f5590606b18ed769.txt)
+
+## find-msvc-tools 0.1.9
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## flac flac-1.3.4.tar.xz
+
+BSD-3-Clause (library, not command-line tools)
+
+- [COPYING.FDL](notices/ios-1.2.0-16/texts/f45cc81b400a048b56c9edbd4c3317f7a8958463dfd55aa96f268ecfd6baa12c.txt)
+
+- [COPYING.GPL](notices/ios-1.2.0-16/texts/8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643.txt)
+
+- [COPYING.LGPL](notices/ios-1.2.0-16/texts/5df07007198989c622f5d41de8d703e7bef3d0e79d62e24332ee739a452af62a.txt)
+
+- [COPYING.Xiph](notices/ios-1.2.0-16/texts/fa27cb11f13f97b0c5f3ff363b1e2610c6efe87ed175779cb2a78e44eb19d34c.txt)
+
+- [doc/html/license.html](notices/ios-1.2.0-16/texts/c90cb3427f6600a58a85acff7bbe651a55e64593101269bf2ea45c82084ae050.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/28ea6746bceb297bfa37f8892e15805bd3a39b04d83d8350e69e7d5fcb4609b9.txt)
+
+## flate2 1.1.9
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/025436edff4cfcdde17a5811fdea78892d8482efd1abdec5a17872d07a4f2112.txt)
+
+## form_urlencoded 1.2.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/20c7855c364d57ea4c97889a5e8d98470a9952dade37bd9248b9a54431670e5e.txt)
+
+## freetype2 freetype-2.13.1.tar.xz
+
+FTL selected; not the alternative GPL license
+
+- [LICENSE.TXT](notices/ios-1.2.0-16/texts/2e3bbb7d7c5c396368dd0853a790ec29ce5b8647163dde42a0493fb0d6556b2b.txt)
+
+- [docs/FTL.TXT](notices/ios-1.2.0-16/texts/08c135755dd589039470f1fdbb400daaabaaa50d0b366d19cebff4d22986baa1.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/e83a2a59da2d187b60dd09b49b4867c17e79dd79c1b6124564349c521658d2f6.txt)
+
+- [Attribution](notices/ios-1.2.0-16/texts/5e20a7991b0b8fd4c7a75a2448930e12a57edb1a7050ffdb84a7158845d610f5.txt)
+
+## fribidi fribidi-1.0.12.tar.xz
+
+LGPL-2.1-or-later; Unicode data notices also apply
+
+- [COPYING](notices/ios-1.2.0-16/texts/32434afcc8666ba060e111d715bfdb6c2d5dd8a35fa4d3ab8ad67d8f850d2f2b.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/d5498910e7077aa839299fd68201f11b904c8193bd69945a4370ee7ee7228f4b.txt)
+
+## futures 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-channel 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-core 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-executor 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-io 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-lite 2.6.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+- [LICENSE-THIRD-PARTY](notices/ios-1.2.0-16/texts/6226d0632e2e1a80c23597e964da9812ae193c535fe058154afb034e94167aa5.txt)
+
+## futures-macro 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-sink 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-task 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## futures-util 0.3.32
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd.txt)
+
+## generic-array 0.14.7
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/c09aae9d3c77b531f56351a9947bc7446511d6b025b3255312d3e3442a9a7583.txt)
+
+## getrandom 0.2.17
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/42fa16951ce7f24b5a467a40e5b449a1d41e662f97ca779864f053f39e097737.txt)
+
+## getrandom 0.4.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/523a42c25d245dde9c015f882cec7f4555aad883382a6cf19b4b7d9b2cd5419b.txt)
+
+## ghash 0.5.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c0fabcc308b450cb6fe62c9f56fae6abbeb9768eb80d992484c857d744846c2e.txt)
+
+## gif 0.14.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/769f80b5bcb42ed0af4e4d2fd74e1ac9bf843cb80c5a29219d1ef3544428a6bb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/77257f3d2181236b1aee78920238062ae64efe13c5d858b2db126e79c9e1b14f.txt)
+
+## group 0.13.0
+
+MIT/Apache-2.0
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/7429802d3e67e3308471b91fbea341e484c4e0a23d0fb230a8636c38184cec79.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## harfbuzz harfbuzz-11.5.0.tar.xz
+
+Old MIT; separate MIT and Unicode data notices also apply
+
+- [COPYING](notices/ios-1.2.0-16/texts/ba8f810f2455c2f08e2d56bb49b72f37fcf68f1f4fade38977cfd7372050ad64.txt)
+
+- [src/ms-use/COPYING](notices/ios-1.2.0-16/texts/c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383.txt)
+
+- [test/COPYING](notices/ios-1.2.0-16/texts/9b35b8485f69cd298fccbb3c40a827dc06cf1185553bef827903497d2944a8d7.txt)
+
+- [test/shape/data/aots/COPYING](notices/ios-1.2.0-16/texts/f55f74bf740db07bb032a90aa74af4307adea3d489c1ccba12453cf0c0a764cb.txt)
+
+- [test/shape/data/text-rendering-tests/COPYING](notices/ios-1.2.0-16/texts/d24039e4d22c9bc72096f6174374539d92a3d6e1163938546ec59179fe095e6f.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/0b7f10f00f82bfbce7fa8d9aaee871c2d07b3eea41fa01239df77bb60df7043d.txt)
+
+## hashbrown 0.14.5
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/ff8f68cb076caf8cefe7a6430d4ac086ce6af2ca8ce2c4e5a2004d4552ef52a2.txt)
+
+## hashlink 0.9.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c144680885b29e4719e2a51f0aab5439a1e02d980692b5aaf086cae12727f28b.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/e915669a595b11a200873df8286561881b0e04932f6412a585db6297ba0bc97c.txt)
+
+## hex-literal 0.4.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/fbe7b9b51878efdfa613d4ec42ebfc9c7fb0c29806249ef9a3cd8f31ca5ef855.txt)
+
+## hkdf 0.12.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/59013a5c8d3a19c26a457579105915a5d51bb0c09d579f8cdedf12e4203c3018.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d288f9c9b4590446ec18c22ead8f8b5a12a3d4025b68f62dc9015063eb9cca69.txt)
+
+## hmac 0.12.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/9e0dfd2dd4173a530e238cb6adb37aa78c34c6bc7444e0e10c1ab5d8881f63ba.txt)
+
+## home 0.5.12
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/8ada45cd9f843acf64e4722ae262c622a2b3b3007c7310ef36ac1061a30f6adb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## http 1.4.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/8bb1b50b0e5c9399ae33bd35fab2769010fa6c14e8860c729a52295d84896b7a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/dc91f8200e4b2a1f9261035d4c18c33c246911a6c0f7b543d75347e61b249cff.txt)
+
+## http-body 1.0.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/cddabf8adc6ccd6c3e68f5d71eac9fae3094116623cf23a46af0a5fd6b8ee813.txt)
+
+## http-body-util 0.1.3
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/b843fb7430efdf9732c834b6814beda44fccf3f0ddf7c9e030b39da17f6b159c.txt)
+
+## httparse 1.10.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/391a5396cec6230bfabd4ef4eb2350eb895bc5efce377a2218f5702ed020d3e3.txt)
+
+## hyper 1.9.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/2d01890414494742ba4a509fcec8efa40f6d8be22cbd72be7cff08d6fda4ec89.txt)
+
+## hyper-rustls 0.27.9
+
+Apache-2.0 OR ISC OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-ISC](notices/ios-1.2.0-16/texts/7cfafc877eccc46c0e346ccbaa5c51bb6b894d2b818e617d970211e232785ad4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/709e3175b4212f7b13aa93971c9f62ff8c69ec45ad8c6532a7e0c41d7a7d6f8c.txt)
+
+## hyper-util 0.1.20
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/9e0a97848ea543aef745c98e84fde696a9a3e0735538f6daefdd3cb1942effc1.txt)
+
+## iana-time-zone 0.1.65
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/696759d65dfe558ff7d9f031c76db19ec5c0767470fb67c4e8d990820d1e99c9.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/da28ccc6b158fc2d8cccc74e99794b1cff1d29bd7bbeb019442fcf0c04c6cad9.txt)
+
+## icu_collections 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_locale_core 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_normalizer 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_normalizer_data 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_properties 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_properties_data 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## icu_provider 2.2.0
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## idna 1.1.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5.txt)
+
+## idna_adapter 1.2.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8b43ce8accd61e9d370b5ca9e9c4f953279b5c239926c62315b40e24df51b726.txt)
+
+## image 0.25.10
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c77a4cf9da729987d0fe7ccd811e3bd27393914ddf3d23467c18cc22954513b3.txt)
+
+## image-webp 0.2.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c77a4cf9da729987d0fe7ccd811e3bd27393914ddf3d23467c18cc22954513b3.txt)
+
+## inout 0.1.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/304b898acad7f02e03d6d8832d682a3b43ee729ab5d3a069af5a36979083b6b4.txt)
+
+## ipnet 2.12.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/87d9feb9238c6bd8e0024fc4733b06cff036f89f36d93b7df1c8a0549bbb7a5b.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/47dc9ff29128ddfb4d6a0435383c9f89120bc374dbcc1dd00b933a0b28aa7865.txt)
+
+## itoa 1.0.18
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## lazy_static 1.5.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0621878e61f0d0fda054bcbe02df75192c28bde1ecc8289cbd86aeba2dd72720.txt)
+
+## lazy-regex 3.6.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/89461664ce2aee7d80ea8fba7118fe7abd490d76ba435cf1d81d3128e060711f.txt)
+
+## lazy-regex-proc_macros 3.6.0
+
+MIT
+
+- [lazy-regex-MIT.txt](notices/ios-1.2.0-16/texts/89461664ce2aee7d80ea8fba7118fe7abd490d76ba435cf1d81d3128e060711f.txt)
+
+## libc 0.2.186
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/123a331b5dbf04c30097fa43b8f858bc85df671fe776de498d01f3d6b7c1f69e.txt)
+
+## libm 0.2.16
+
+MIT
+
+- [LICENSE.txt](notices/ios-1.2.0-16/texts/3823dda7cf046602f4b4e77ec8e227863dc4736037cc85bb33d9f19febe16bb7.txt)
+
+## libsqlite3-sys 0.30.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f59ba65550f2a5adff98ec6478d783402c8e0a3eb515025c0b3438f3d30dc39e.txt)
+
+- [sqlcipher/LICENSE](notices/ios-1.2.0-16/texts/ea4fcb309f14a22065e1ea45362d494d320012249ed865fe9c7c0946db754131.txt)
+
+## libVLC 79128878-remotefs-apple-system
+
+LGPL-2.1-or-later (selected playback modules)
+
+- [COPYING](notices/ios-1.2.0-16/texts/8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643.txt)
+
+- [COPYING.LIB](notices/ios-1.2.0-16/texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt)
+
+- [AUTHORS](notices/ios-1.2.0-16/texts/9269103dfaa31222ad24a8f88f2505c169ad1861b3feb87cd2d73cf64120dfb5.txt)
+
+- [THANKS](notices/ios-1.2.0-16/texts/335a6f84e2ab3f84683707fa1ff4b69f1785afeacb780e13e364090eafb0b9d5.txt)
+
+## libxml2 libxml2-2.9.14.tar.xz
+
+MIT
+
+- [Copyright](notices/ios-1.2.0-16/texts/c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/b21e8ac509a8f8d691c0be1665c511e5998be74c9bc1eb6af5ba8bc816c96aee.txt)
+
+## litemap 0.8.2
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## lock_api 0.4.14
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5.txt)
+
+## log 0.4.29
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## matroska libmatroska-1.7.0.tar.xz
+
+LGPL-2.1-or-later
+
+- [LICENSE.LGPL](notices/ios-1.2.0-16/texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/9a29ed423bad0e67849c69bd8c8cdd120db6d79a4bba666bbe8eb38509f81e3b.txt)
+
+## md5 0.7.0
+
+Apache-2.0/MIT
+
+- [LICENSE.md](notices/ios-1.2.0-16/texts/c9759868ce3cef7bf419e389a0bc4408d48d0880fee20cdf640bcb027aca4bb6.txt)
+
+## memchr 2.8.0
+
+Unlicense OR MIT
+
+- [COPYING](notices/ios-1.2.0-16/texts/01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f.txt)
+
+- [UNLICENSE](notices/ios-1.2.0-16/texts/7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c.txt)
+
+## miniz_oxide 0.8.9
+
+MIT OR Zlib OR Apache-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/4108245a1f2df9d4e94df8abed5b4ba0759bb2f9b40a6b939f1be141077ae50b.txt)
+
+- [LICENSE-APACHE.md](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+- [LICENSE-MIT.md](notices/ios-1.2.0-16/texts/799e9ca9d179295ef372f25d3769cdda7d25bb2668add6a6a1e22d1e4c678b8d.txt)
+
+- [LICENSE-ZLIB.md](notices/ios-1.2.0-16/texts/0a54e647fe54104658b5e563c04c6f9edf251710e47bce692e0bd990a4ddaa39.txt)
+
+## mio 1.2.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/07919255c7e04793d8ea760d6c2ce32d19f9ff02bdbdde3ce90b1e1880929a9b.txt)
+
+## MobileVLCKit 3.7.3 (source build)
+
+LGPL-2.1-or-later
+
+- [COPYING](notices/ios-1.2.0-16/texts/dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551.txt)
+
+## moxcms 0.8.1
+
+BSD-3-Clause OR Apache-2.0
+
+- [LICENSE-APACHE.md](notices/ios-1.2.0-16/texts/90bf2d659c43045111b65c733ab2a6d4cbcb422a098368c8c58a9ba3db4ed0c5.txt)
+
+- [LICENSE.md](notices/ios-1.2.0-16/texts/2aa92cada6431e75615e3fe6cb1a9082c98f777d48ae1c087c0da0e37f7b8bff.txt)
+
+## num-bigint 0.4.6
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## num-bigint-dig 0.8.6
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## num-integer 0.1.46
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## num-iter 0.1.45
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## num-traits 0.2.19
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## objc2 0.6.4
+
+MIT
+
+- [objc2-8852b424.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-av-foundation 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-avf-audio 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-audio 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-audio-types 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-foundation 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-graphics 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-image 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-media 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-core-video 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-encode 4.1.0
+
+MIT
+
+- [objc2-8d214f54.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-foundation 0.3.2
+
+MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-image-io 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-media-toolbox 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-metal 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## objc2-quartz-core 0.3.2
+
+Zlib OR Apache-2.0 OR MIT
+
+- [objc2-7b1abfd7.md](notices/ios-1.2.0-16/texts/7f976f7e9cb2d87df7230606feb932c3f21ac0e664045a775b600046ff850c54.txt)
+
+- [objc2-original-MIT.txt](notices/ios-1.2.0-16/texts/e353f37b12aefbb9f9b29490e837cfee05d9bda70804b3562839a3285c1df1e5.txt)
+
+## ogg libogg-1.3.6.tar.xz
+
+BSD-3-Clause
+
+- [COPYING](notices/ios-1.2.0-16/texts/d2ab5758336489da61c12cc5bb757da5339c4ae9001f9bb0562b4370249af814.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/f7444fc54447322159658de15e29388c12d1a1c7c17a9ec55c4108b190e1714b.txt)
+
+## once_cell 1.21.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## opaque-debug 0.3.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/f59f5a78193597e04fd932ee9af86254d14d08be5c9d0e003ab888feccce2161.txt)
+
+## openssl-probe 0.2.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## opus opus-1.3.tar.gz
+
+BSD-3-Clause; additional patent grants in source archive
+
+- [COPYING](notices/ios-1.2.0-16/texts/8338ce8d922bb4416ce3dd1e5680173332435e3f0755007ac7801ccd674fe682.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/b563678819dfd33bcb3f77d472997903bdce7dad8a43b9296df3cd5b74ba5308.txt)
+
+## p256 0.13.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/233b95ccbf90dc67e32f3e8995c489f6312d9191ebd141a931c3b684f1e3be6d.txt)
+
+## p384 0.13.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/02168781a5b59970e3da1784d2eb69f432598a3757f283dbffdafd9d483a9113.txt)
+
+## p521 0.13.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d27687b51f2874822c1530976b7e837eac4f308d94bf3dd42047011b7d437b47.txt)
+
+## parking 2.2.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+- [LICENSE-THIRD-PARTY](notices/ios-1.2.0-16/texts/9a6d7a3c1b8edcc706c4b6c37f8dae9a77f02c7f9051df603f975db136b55419.txt)
+
+## parking_lot 0.12.5
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5.txt)
+
+## parking_lot_core 0.9.12
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5.txt)
+
+## pbkdf2 0.12.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8ea5cea8ddecc46a64a004406414d25529fca7eb71cfd8c0cfe49c343bff79c5.txt)
+
+## pem-rfc7468 0.7.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/90c503b61dee04e1449c323ec34c229dfb68d7adcb96c7e140ee55f70fce2d8e.txt)
+
+## percent-encoding 2.3.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5.txt)
+
+## pin-project-lite 0.2.17
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## pkcs1 0.7.5
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c995204cc6bad2ed67dd41f7d89bb9f1a9d48e0edd745732b30640d7912089a4.txt)
+
+## pkcs5 0.7.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c995204cc6bad2ed67dd41f7d89bb9f1a9d48e0edd745732b30640d7912089a4.txt)
+
+## pkcs8 0.10.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/ad64fcb9589f162720f3cc5010ad76ca6ad3764e11861f9192c489df176bb71d.txt)
+
+## pkg-config 0.3.33
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## png 0.18.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/eaf40297c75da471f7cda1f3458e8d91b4b2ec866e609527a13acfa93b638652.txt)
+
+## png libpng-1.6.50.tar.xz
+
+libpng-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/16d9daaafbf63a31a5bdc91d4600972548fef5aaa1244202393288dbd079c49a.txt)
+
+- [contrib/gregbook/COPYING](notices/ios-1.2.0-16/texts/d6cb0e9e560f51085556949a84af12b79a00f10ab8b66c752537faf7cd665572.txt)
+
+- [contrib/gregbook/LICENSE](notices/ios-1.2.0-16/texts/b6a03c1803eb58ffb1f1278d5c7d4096c4c116e66dce8a7553e8c77d163c3438.txt)
+
+- [contrib/pngminus/LICENSE.txt](notices/ios-1.2.0-16/texts/1806f1f10d393e9e377b3a8d1b968452b54f1a90378f14eeef45426946ace330.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/f8def64599df52340e7f09317cf4ffe791b67ab05d659a6f272d88539e66357b.txt)
+
+## poly1305 0.8.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6d99fffea918d1f7dfe567029c7bd21d6fcaf310ad28c44e6511a0e1f68c79ea.txt)
+
+## polyval 0.6.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/a291b6910744d262a9e953c3b5868d74510e20161359f649a11e1791fde84fcd.txt)
+
+## potential_utf 0.1.5
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## ppv-lite86 0.2.21
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/0218327e7a480793ffdd4eb792379a9709e5c135c7ba267f709d6f6d4d70af0a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/4cada0bd02ea3692eee6f16400d86c6508bbd3bafb2b65fed0419f36d4f83e8f.txt)
+
+## primeorder 0.13.6
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/233b95ccbf90dc67e32f3e8995c489f6312d9191ebd141a931c3b684f1e3be6d.txt)
+
+## proc-macro2 1.0.106
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## pxfm 0.1.29
+
+BSD-3-Clause OR Apache-2.0
+
+- [LICENSE-APACHE.md](notices/ios-1.2.0-16/texts/90bf2d659c43045111b65c733ab2a6d4cbcb422a098368c8c58a9ba3db4ed0c5.txt)
+
+- [LICENSE.md](notices/ios-1.2.0-16/texts/2aa92cada6431e75615e3fe6cb1a9082c98f777d48ae1c087c0da0e37f7b8bff.txt)
+
+## quick-error 2.0.1
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/058f01fe181608d027fcde7e528fc03ea3cf90f30903c407644b0a9bbc54f500.txt)
+
+## quote 1.0.45
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## rand 0.8.6
+
+MIT OR Apache-2.0
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/35242e7a83f69875e6edeff02291e688c97caafe2f8902e4e19b49d3e78b4cab.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b.txt)
+
+## rand_chacha 0.3.1
+
+MIT OR Apache-2.0
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b.txt)
+
+## rand_core 0.6.4
+
+MIT OR Apache-2.0
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/6df43f6f4b5d4587f3d8d71e45532c688fd168afa5fe89d571cb32fa09c4ef51.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b.txt)
+
+## regex 1.12.3
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## regex-automata 0.4.14
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+## regex-syntax 0.8.10
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb.txt)
+
+- [src/unicode_tables/LICENSE-UNICODE](notices/ios-1.2.0-16/texts/74db5baf44a41b1000312c673544b3374e4198af5605c7f9080a402cec42cfa3.txt)
+
+## reqwest 0.12.28
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/751963a8b88c0e3a9f27e98933079fbcf09b9998b2c13ac49c2e4d58444520d6.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/47d4e1803702728e03d30f8a848ae2249ba274bbd9f8443e803f7924d83cd371.txt)
+
+## rfc6979 0.4.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/78779d420019e6b4630376af8e86b6b335ee8a2f89ede6e0411e0469a326aaa4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/bdebaf9156a298f8fdab56dd26cb5144673de522d80f4c0d88e0039145f147f9.txt)
+
+## ring 0.17.14
+
+Apache-2.0 AND ISC
+
+- [LICENSE](notices/ios-1.2.0-16/texts/b3d734001a94efff3579978d953391aa7115f877657d25eb54037a43875d078a.txt)
+
+- [LICENSE-BoringSSL](notices/ios-1.2.0-16/texts/005fc765ddc5115da796cca915baa9557abae13ff35e0a47c47affc56f6c414d.txt)
+
+- [LICENSE-other-bits](notices/ios-1.2.0-16/texts/f025ccfb7dfb6bdfedc75ca0f67acc69e6fb4998143d834f7c2f38a29989680f.txt)
+
+- [src/polyfill/once_cell/LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [src/polyfill/once_cell/LICENSE-MIT](notices/ios-1.2.0-16/texts/6ee2ed6c77710de911761acd5fc1ad1da00f476beb1a7ef27e78c2d1858deafc.txt)
+
+- [third_party/fiat/LICENSE](notices/ios-1.2.0-16/texts/9eacbcb81be660840c714a560a9d65ba07913db98dd4baf969f78dd499fdd60f.txt)
+
+## rsa 0.9.10
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/769f80b5bcb42ed0af4e4d2fd74e1ac9bf843cb80c5a29219d1ef3544428a6bb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/30fefc3a7d6a0041541858293bcbea2dde4caa4c0a5802f996a7f7e8c0085652.txt)
+
+## rusqlite 0.32.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f59ba65550f2a5adff98ec6478d783402c8e0a3eb515025c0b3438f3d30dc39e.txt)
+
+## russh 0.46.0
+
+Apache-2.0
+
+- [russh-Apache-2.0.txt](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [russh 0.46.0 source notices](notices/ios-1.2.0-16/texts/d34ebbd6af07ee54f40b443efd59cf6df0356303baaedb6cdac3df35bc1330de.txt)
+
+## russh-cryptovec 0.7.3
+
+Apache-2.0
+
+- [russh-Apache-2.0.txt](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [russh-cryptovec 0.7.3 source notices](notices/ios-1.2.0-16/texts/c55d03fb3e98bb0b7344e98fc9ae510b26e0c8e8facc1ae7579a52d423c85861.txt)
+
+## russh-keys 0.46.0
+
+Apache-2.0
+
+- [russh-Apache-2.0.txt](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [russh-keys 0.46.0 source notices](notices/ios-1.2.0-16/texts/c230d4b5b9e4fc6e576eb7b853dbe577044203502ff6c1f0d6e5a9aa7840495c.txt)
+
+## russh-sftp 2.1.2
+
+Apache-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6.txt)
+
+## russh-util 0.46.0
+
+Apache-2.0
+
+- [russh-Apache-2.0.txt](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [russh-util 0.46.0 source notices](notices/ios-1.2.0-16/texts/895ba2d3278594429a7e95349ea56c8bf7d14ffb683d4842db3c4439b4a8fc35.txt)
+
+## Rust standard library rustc 1.98.1 (48a229cea 2026-09-01)
+
+See the upstream standard-library copyright notice and linked licenses
+
+- [COPYRIGHT-library.html](notices/ios-1.2.0-16/rust/COPYRIGHT-library.html)
+
+## rustc_version 0.4.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c9a75f18b9ab2927829a208fc6aa2cf4e63b8420887ba29cdb265d6619ae82d5.txt)
+
+## rustix 1.1.4
+
+Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/377c2e7c53250cc5905c0b0532d35973392af16ffb9596a41d99d202cf3617c9.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-Apache-2.0_WITH_LLVM-exception](notices/ios-1.2.0-16/texts/268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## rustls 0.23.40
+
+Apache-2.0 OR ISC OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-ISC](notices/ios-1.2.0-16/texts/7cfafc877eccc46c0e346ccbaa5c51bb6b894d2b818e617d970211e232785ad4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/709e3175b4212f7b13aa93971c9f62ff8c69ec45ad8c6532a7e0c41d7a7d6f8c.txt)
+
+## rustls-native-certs 0.8.3
+
+Apache-2.0 OR ISC OR MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/d75967ce788187f83c3bd3328210974acfc443d4dc44909f1d7e34f21623a0c6.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-ISC](notices/ios-1.2.0-16/texts/7cfafc877eccc46c0e346ccbaa5c51bb6b894d2b818e617d970211e232785ad4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/709e3175b4212f7b13aa93971c9f62ff8c69ec45ad8c6532a7e0c41d7a7d6f8c.txt)
+
+## rustls-pki-types 1.14.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/45fd05c4865e7c350b98ad7ac50e1b15462d49af4a91e9b0c9dd933dc9a69742.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/9117d922e667125508dde62b02c1f57ed22f5ad21eb536aa2e2d99e1c796e639.txt)
+
+## rustls-webpki 0.103.13
+
+ISC
+
+- [LICENSE](notices/ios-1.2.0-16/texts/5b698ca13897be3afdb7174256fa1574f8c6892b8bea1a66dd6469d3fe27885a.txt)
+
+## ryu 1.0.23
+
+Apache-2.0 OR BSL-1.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-BOOST](notices/ios-1.2.0-16/texts/c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566.txt)
+
+## salsa20 0.10.2
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/5f48cbaa21c857be3080d8e7bca0f55633a09c5fb7ba1ab3aa1360345a2bf525.txt)
+
+## scopeguard 1.2.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/fb77f0a9c53e473abe5103c8632ef9f0f2874d4fb3f17cb2d8c661aab9cee9d7.txt)
+
+## scrypt 0.11.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c995204cc6bad2ed67dd41f7d89bb9f1a9d48e0edd745732b30640d7912089a4.txt)
+
+## sec1 0.7.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/4a883ecc3bb1010faed542bf63d53e530fea5e5e12cf676aed588784298ba929.txt)
+
+## semver 1.0.28
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde 1.0.228
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde_bytes 0.11.19
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde_core 1.0.228
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde_derive 1.0.228
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde_json 1.0.149
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## serde_urlencoded 0.7.1
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b9eb266294324f672cbe945fe8f2e32f85024f0d61a1a7d14382cdde0ac44769.txt)
+
+## sha1 0.10.6
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b4eb00df6e2a4d22518fcaa6a2b4646f249b3a3c9814509b22bd2091f1392ff1.txt)
+
+## sha2 0.10.9
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b4eb00df6e2a4d22518fcaa6a2b4646f249b3a3c9814509b22bd2091f1392ff1.txt)
+
+## shlex 1.3.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/553fffcd9b1cb158bc3e9edc35da85ca5c3b3d7d2e61c883ebcfa8a65814b583.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/4455bf75a91154108304cb283e0fea9948c14f13e20d60887cf2552449dea3b1.txt)
+
+## signal-hook-registry 1.4.8
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/503558bfefe66ca15e4e3f7955b3cb0ec87fd52f29bf24b336af7bd00e946d5c.txt)
+
+## signature 2.2.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b3470648aff02beb36d7a53240fc9260ed80ed93bd43bace6b67d7ef7336ee33.txt)
+
+## simd-adler32 0.3.9
+
+MIT
+
+- [LICENSE.md](notices/ios-1.2.0-16/texts/42a35170233e83e18856792e748de4c1ce4a63b2afce9a370c89ef3fe23f9f2d.txt)
+
+## slab 0.4.12
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/8ce0830173fdac609dfb4ea603fdc002c2f4af0dc9b1a005653f5da9cf534b18.txt)
+
+## smallvec 1.15.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0b28172679e0009b655da42797c03fd163a3379d5cfa67ba1f1655e974a2a1a9.txt)
+
+## socket2 0.6.3
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397.txt)
+
+## soxr soxr-0.1.3-Source.tar.xz
+
+LGPL-2.1-or-later
+
+- [COPYING.LGPL](notices/ios-1.2.0-16/texts/f2f118b9029ec1871b953639ecc46651b2fc7b62e295e6cf3ef2ac4c9a058b33.txt)
+
+- [LICENCE](notices/ios-1.2.0-16/texts/dc98676341fdcd29d9f279c9679d6a75288785b174ded8d1b2e316c366166135.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/8adf3c55e8c14aa84dd26e8c6e5df26084989173af6fbd9d464098c7daafa4a2.txt)
+
+## speex speex-1.2.1.tar.gz
+
+BSD-3-Clause
+
+- [COPYING](notices/ios-1.2.0-16/texts/2654a4264b2bfe298dedc508748d140111840c315cc8eb646a3a68c13fa75b01.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/2f16a9f2bce441d2f04a7a45301eefcfc3b7c548bc1cb27a92d7f5b6bf5366c2.txt)
+
+## spin 0.9.8
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/6ac8711fb340c62ce0a4ecd463342d3fa0e8e70de697c863a2e1c0c53006003c.txt)
+
+## spki 0.7.3
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c995204cc6bad2ed67dd41f7d89bb9f1a9d48e0edd745732b30640d7912089a4.txt)
+
+## ssh-cipher 0.2.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/df5a6e5866476bcef44f2b2e1712d123ea26e350cc0b54df253beb4333bf0aec.txt)
+
+## ssh-encoding 0.2.0
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/c995204cc6bad2ed67dd41f7d89bb9f1a9d48e0edd745732b30640d7912089a4.txt)
+
+## ssh-key 0.6.7
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/33f702959c0ea91c08b21b65cf1f08b6c122ec9e6db0b5db784a7b367d942330.txt)
+
+## stable_deref_trait 1.2.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/5e05b024f653a5ce199e77cbbbd42fb5553562ec714b819421ed0c3e552a75d7.txt)
+
+## subtle 2.6.1
+
+BSD-3-Clause
+
+- [LICENSE](notices/ios-1.2.0-16/texts/d1fc1bc0d155df60b2e7705b6b2ae02a05c96f948e1cec6e2fb86360b09f346b.txt)
+
+## suppaftp 6.3.0
+
+MIT OR Apache-2.0
+
+- [suppaftp-APACHE.txt](notices/ios-1.2.0-16/texts/c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08.txt)
+
+- [suppaftp-MIT.txt](notices/ios-1.2.0-16/texts/4e883a0c89656afe3aaa559b3d4096a8aaa7534f00937f1c0054e231b2928078.txt)
+
+## syn 2.0.117
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## sync_wrapper 1.0.2
+
+Apache-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt)
+
+## synstructure 0.13.2
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/219920e865eee70b7dcfc948a86b099e7f4fe2de01bcca2ca9a20c0a033f2b59.txt)
+
+## tempfile 3.27.0
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/8b427f5bc501764575e52ba4f9d95673cf8f6d80a86d0d06599852e1a9a20a36.txt)
+
+## theora libtheora-1.1.1.tar.xz
+
+BSD-3-Clause
+
+- [COPYING](notices/ios-1.2.0-16/texts/8417fad7da775735564e209484a2e011e0fa201e94f01fdbee6e4977e478e6fc.txt)
+
+- [LICENSE](notices/ios-1.2.0-16/texts/654a0238f789f4435c4818f50005b141d013c5a09a31d861efc1d0d67ba975a4.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/f2fba787b1631ef88d8187688f20d389b9f96e4127c19ad7a5cc6a2e5402a3a2.txt)
+
+## thiserror 1.0.69
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## thiserror 2.0.18
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## thiserror-impl 1.0.69
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## thiserror-impl 2.0.18
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## tinystr 0.8.3
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## tokio 1.52.3
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552.txt)
+
+## tokio-macros 2.7.0
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/0b83dc40cba89b9922bb84b0a9c7d2768ce37c1d7e138b7424fd4549915778c9.txt)
+
+## tokio-rustls 0.26.4
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/cc117d90b498b32b11a886f279b359da16a73c3b01efbb2f5cc004b20262334e.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/e20fa2b8e0a2565f24a792b94b4bf4b6c2b9d36f781d8a9516e218a036e6677a.txt)
+
+## tokio-stream 0.1.18
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552.txt)
+
+## tokio-util 0.7.18
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552.txt)
+
+## tower 0.5.3
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482.txt)
+
+## tower-http 0.6.11
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/5049cf464977eff4b4fcfa7988d84e74116956a3eb9d5f1d451b3f828f945233.txt)
+
+## tower-layer 0.3.3
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482.txt)
+
+## tower-service 0.3.3
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482.txt)
+
+## tracing 0.1.44
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/898b1ae9821e98daf8964c8d6c7f61641f5f5aa78ad500020771c0939ee0dea1.txt)
+
+## tracing-core 0.1.36
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/898b1ae9821e98daf8964c8d6c7f61641f5f5aa78ad500020771c0939ee0dea1.txt)
+
+- [src/spin/LICENSE](notices/ios-1.2.0-16/texts/58545fed1565e42d687aecec6897d35c6d37ccb71479a137c0deb2203e125c79.txt)
+
+## try-lock 0.2.5
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/c816a0749cdc6bf062a5111c159723de51b2bfac66a1dac2655abd9e6b1583eb.txt)
+
+## typenum 1.20.0
+
+MIT OR Apache-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/db11fec9946737df39ca3898d9cd8c10ec6f6c3a884a6802b0ad0b81b4e8f23a.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/516b24e051bf5630880ebbd55c40a25ce9552ebaf8970a53e8976eb70e522406.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/a825bd853ab71619a4923d7b4311221427848070ff44d990da39b0b274c1683f.txt)
+
+## unicode-ident 1.0.24
+
+(MIT OR Apache-2.0) AND Unicode-3.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+- [LICENSE-UNICODE](notices/ios-1.2.0-16/texts/f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1.txt)
+
+## universal-hash 0.5.1
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/6b50510a0400c72172355cc5d2ba0f2c5c2eb33149b8f96539dc345fdc484920.txt)
+
+## untrusted 0.9.0
+
+ISC
+
+- [LICENSE.txt](notices/ios-1.2.0-16/texts/7abd9b6960dcf7d4d0a48606a5b71bfe37d472db68d70637f3a58a56785f1621.txt)
+
+## url 2.5.8
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5.txt)
+
+## utf8_iter 1.0.4
+
+Apache-2.0 OR MIT
+
+- [COPYRIGHT](notices/ios-1.2.0-16/texts/c30152c94a6d75e021adbc52b3a52470366a46edb917e17deae3259251af244c.txt)
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/3fa4ca83dcc9237839b1bdeb2e6d16bdfb5ec0c5ce42b24694d8bbf0dcbef72c.txt)
+
+## uuid 1.23.1
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/436bc5a105d8e57dcd8778730f3754f7bf39c14d2f530e4cde4bd2d17a83ec3d.txt)
+
+## vcpkg 0.2.15
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/60c93a31f490375aadf64098b75f10715010379541021e00261045d7800611d3.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/016d20f335060a70e79d9fcf8dfaa6201114d65d592211f4bdfb8ae9ca2bc1dc.txt)
+
+## version_check 0.9.5
+
+MIT/Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/b7e650f3fce5c53249d1cdc608b54df156a97edd636cf9d23498d0cfe7aec63e.txt)
+
+## vorbis libvorbis-1.3.6.tar.xz
+
+BSD-3-Clause
+
+- [COPYING](notices/ios-1.2.0-16/texts/29e9914e6173b7061b7d48c25e6159fc1438326738bc047cc7248abc01b271f6.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/427e85b3062e1f647b73df8f9c65bdc826e9cef7600e15b33d0a7ce5d945783a.txt)
+
+## vpx libvpx-1.15.2.tar.gz
+
+BSD-3-Clause and PATENTS grant
+
+- [LICENSE](notices/ios-1.2.0-16/texts/8267348d5af1262c11d1a08de2f5afc77457755f1ac658627dd9acf71011d615.txt)
+
+- [PATENTS](notices/ios-1.2.0-16/texts/cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c.txt)
+
+- [third_party/googletest/src/LICENSE](notices/ios-1.2.0-16/texts/9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138.txt)
+
+- [third_party/libwebm/LICENSE.TXT](notices/ios-1.2.0-16/texts/5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf.txt)
+
+- [third_party/libwebm/PATENTS.TXT](notices/ios-1.2.0-16/texts/cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c.txt)
+
+- [third_party/libyuv/LICENSE](notices/ios-1.2.0-16/texts/2b2cc1180c7e6988328ad2033b04b80117419db9c4c584918bbb3cfec7e9364f.txt)
+
+- [third_party/x86inc/LICENSE](notices/ios-1.2.0-16/texts/719d8fa235f2068e0ae6d6a7dceb0a7720d7840f0f0ebed29957989e6ded3cd8.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/d48d1f4a34103e36c38a1a1fac21192d63e96b30a59d7be473a432e9fc468a21.txt)
+
+## want 0.3.1
+
+MIT
+
+- [LICENSE](notices/ios-1.2.0-16/texts/a65f5d0a945d267751344c95665945b90c030ea107faf5c85d518929886187da.txt)
+
+## webpki-roots 1.0.7
+
+CDLA-Permissive-2.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/e271993808fec50ab29350b39539cdec611a9103f827e0aa26d61da70e2d33f8.txt)
+
+## weezl 0.1.12
+
+MIT OR Apache-2.0
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/769f80b5bcb42ed0af4e4d2fd74e1ac9bf843cb80c5a29219d1ef3544428a6bb.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/573f5227db835cd30bbdd3aed3f82615f80119a4d5c82b4daf642dbfe2b6afde.txt)
+
+## writeable 0.6.3
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## yoke 0.8.2
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## yoke-derive 0.8.2
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zerocopy 0.8.48
+
+BSD-2-Clause OR Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/9d185ac6703c4b0453974c0d85e9eee43e6941009296bb1f5eb0b54e2329e9f3.txt)
+
+- [LICENSE-BSD](notices/ios-1.2.0-16/texts/83c1763356e822adde0a2cae748d938a73fdc263849ccff6b27776dff213bd32.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/1a2f5c12ddc934d58956aa5dbdd3255fe55fd957633ab7d0d39e4f0daa73f7df.txt)
+
+## zerofrom 0.1.8
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zerofrom-derive 0.1.7
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zeroize 1.8.2
+
+Apache-2.0 OR MIT
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/0b04ee3ce0021a922f43f37a17fee09a5a1ee6d1f4e149d5bf75b72395a49c72.txt)
+
+## zerotrie 0.2.4
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zerovec 0.11.6
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zerovec-derive 0.11.3
+
+Unicode-3.0
+
+- [LICENSE](notices/ios-1.2.0-16/texts/f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2.txt)
+
+## zlib zlib-1.3.1.tar.xz
+
+Zlib
+
+- [LICENSE](notices/ios-1.2.0-16/texts/845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243.txt)
+
+- [SOURCE-NOTICES.txt](notices/ios-1.2.0-16/texts/e3b3ca5243eed51a6a77d0e16e3619a5ad359689ac1fcd65f986356763a85c9d.txt)
+
+## zmij 1.0.21
+
+MIT
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3.txt)
+
+## zune-core 0.5.1
+
+MIT OR Apache-2.0 OR Zlib
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d30047bca3b516639339a3c279bb84c3483124fb5a9dafe3c75056a85090e745.txt)
+
+- [LICENSE-ZLIB](notices/ios-1.2.0-16/texts/d201d14804d3bcd3b944147173175e4abfbd838b7c8069b6bd3452496bf13e6c.txt)
+
+## zune-jpeg 0.5.15
+
+MIT OR Apache-2.0 OR Zlib
+
+- [LICENSE-APACHE](notices/ios-1.2.0-16/texts/c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4.txt)
+
+- [LICENSE-MIT](notices/ios-1.2.0-16/texts/d30047bca3b516639339a3c279bb84c3483124fb5a9dafe3c75056a85090e745.txt)
+
+- [LICENSE-ZLIB](notices/ios-1.2.0-16/texts/d201d14804d3bcd3b944147173175e4abfbd838b7c8069b6bd3452496bf13e6c.txt)

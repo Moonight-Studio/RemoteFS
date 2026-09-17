@@ -61,4 +61,8 @@ Open a support issue at [github.com/Moonight-Studio/RemoteFS/issues](https://git
 
 Version 1.2.0 test builds offer a seven-day trial and a one-time lifetime unlock, without automatic billing or a subscription. Use Restore Purchases to restore verified Apple purchases. TestFlight purchases are free test transactions and do not transfer to the production app.
 
-In iOS 1.2.0 (15), disconnecting retains offline media indexes. Storage → ⋯ → Remove Connection removes saved configuration, credentials and that connection’s media index; it does not delete server files or securely erase every preview cache. Use Settings for cache management.
+In iOS 1.2.0 (16), disconnecting retains offline media indexes. Storage → ⋯ → Remove Connection removes saved configuration, credentials and that connection’s media index; it does not delete server files or securely erase every preview cache. Use Settings for cache management.
+
+## Find duplicate files
+
+On iPhone, open More → Duplicate Files; on iPad and Mac, choose Duplicate Files in the sidebar. Connect the storage locations, select them, and start scanning. Small files use a full SHA-256; large files use a low-data sample to identify possible duplicates. Fully verify a group before choosing a copy to keep. Each deletion requires confirmation and reads both files again. Scanning never deletes files automatically. Removing a connection clears its local fingerprint records.
