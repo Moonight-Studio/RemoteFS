@@ -65,4 +65,10 @@ In iOS 1.2.0 (16), disconnecting retains offline media indexes. Storage → ⋯ 
 
 ## Find duplicate files
 
-On iPhone, open More → Duplicate Files; on iPad and Mac, choose Duplicate Files in the sidebar. Connect the storage locations, select them, and start scanning. Small files use a full SHA-256; large files use a low-data sample to identify possible duplicates. Fully verify a group before choosing a copy to keep. Each deletion requires confirmation and reads both files again. Scanning never deletes files automatically. Removing a connection clears its local fingerprint records.
+On iPhone, open More → Duplicate Files; on iPad and Mac, choose Duplicate Files in the sidebar. Connect the storage locations, select them, and start scanning. Small files use a full SHA-256; large files use a low-data sample to identify possible duplicates. Fully verify a group before choosing a copy to keep. Each duplicate removal requires confirmation and reads both files again before moving the unwanted copy to Trash. Scanning never deletes files automatically. Removing a connection clears its local fingerprint records.
+
+## Restore or permanently delete files
+
+iOS 1.2.0 (17) and macOS 1.2.0 (2026.9.19) move deleted files, folders and verified duplicate copies to remote Trash by default. On iPhone open More → Trash; on iPad and Mac choose Trash in the sidebar. Connect the storage location to restore items or permanently delete individual items with a separate confirmation. Restore refuses existing names and requires the original parent folder.
+
+Trash is stored on the server, persists across reconnects and is never emptied automatically. It still uses storage until permanently deleted; other authorized clients can access it. Removing a connection does not empty its remote Trash. Server snapshots or the server’s own recycle policy may retain data after permanent deletion.

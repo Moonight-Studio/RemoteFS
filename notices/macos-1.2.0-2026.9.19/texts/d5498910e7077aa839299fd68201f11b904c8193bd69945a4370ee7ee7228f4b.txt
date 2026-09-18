@@ -1,0 +1,1461 @@
+fribidi additional source notices
+
+Unicode Character Database 14.0.0 attribution preserved from the FriBidi 1.0.12 source archive. Unicode License V3 is retained for data files under Unicode's published terms. This does not replace FriBidi's LGPL grant or change the original data copyright date. Exact original notice comments from the source/header inputs correlated to the macOS, iOS and simulator contrib archives. All listed full source hashes agree across the three configured trees. Full primary license documents are also retained. Conditional code and shared headers may be conservative inclusions; this attribution inventory is not final-link retention, patent clearance or complete distribution approval.
+
+gen.tab/unidata/ReadMe.txt:1-16
+
+# Unicode Character Database
+# Date: 2021-09-10, 17:22:00 GMT [KW]
+# © 2021 Unicode®, Inc.
+# Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
+# For terms of use, see https://www.unicode.org/terms_of_use.html
+#
+# For documentation, see the following:
+# NamesList.html
+# UAX #38, "Unicode Han Database (Unihan)"
+# UAX #44, "Unicode Character Database"
+# UTS #51, "Unicode Emoji"
+#
+# The UAXes and UTS #51 can be accessed at https://www.unicode.org/versions/Unicode14.0.0/
+
+This directory contains the final data files
+for the Unicode Character Database, for Version 14.0.0 of the Unicode Standard.
+
+lib/bidi-types.h:1-26
+
+/* FriBidi
+ * bidi-types.h - define internal bidi types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/common.h:1-25
+
+/* FriBidi
+ * common.h - common include for library sources
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/debug.h:1-26
+
+/* FriBidi
+ * debug.h - debug-only interfaces
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-arabic.c:1-26
+
+/* fribidi-arabic.c - Arabic shaping
+ *
+ * Copyright (C) 2005  Behdad Esfahbod
+ *
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ *
+ * Author(s):
+ *   Behdad Esfahbod, 2005
+ */
+
+lib/fribidi-arabic.h:1-26
+
+/* fribidi-arabic.h - do Arabic shaping to presentation forms
+ *
+ * Copyright (C) 2005  Behdad Esfahbod
+ * 
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ *
+ * Author(s):
+ *   Behdad Esfahbod, 2005
+ */
+
+lib/fribidi-bidi-types-list.h:2-27
+
+/* FriBidi
+ * fribidi-bidi-types-list.h - list of bidi types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-bidi-types.c:1-26
+
+/* FriBidi
+ * fribidi-bidi-types.c - character bidi types
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-bidi-types.h:1-26
+
+/* FriBidi
+ * fribidi-bidi-types.h - character bidi types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-bidi.c:1-28
+
+/* FriBidi
+ * fribidi-bidi.c - bidirectional algorithm
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000, 2017
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000,2017 Dov Grobgeld
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-bidi.h:1-28
+
+/* FriBidi
+ * fribidi-bidi.h - bidirectional algorithm
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-brackets.c:1-30
+
+/* fribidi-brackets.c - get bracketed character
+ *
+ * Copyright (C) 2004  Sharif FarsiWeb, Inc
+ * Copyright (C) 2001, 2002, 2004  Behdad Esfahbod
+ * Copyright (C) 1999, 2000, 2017  Dov Grobgeld
+ *
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ */
+/* 
+ * Author(s):
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000, 2017
+ */
+
+lib/fribidi-brackets.h:1-29
+
+/* fribidi-brackets.h - get bracket character property
+ *
+ * Copyright (C) 2004  Sharif FarsiWeb, Inc
+ * Copyright (C) 2001, 2002, 2004  Behdad Esfahbod
+ * Copyright (C) 1999, 2000, 2017  Dov Grobgeld
+ * 
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ *
+ * Author(s):
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000, 2017
+ */
+
+lib/fribidi-char-sets-cap-rtl.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cap-rtl.c - CapRTL character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-cap-rtl.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cap-rtl.h - CapRTL character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-cp1255.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cp1255.c - CP1255 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-cp1255.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cp1255.h - CP1255 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-cp1256.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cp1256.c - CP1256 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-cp1256.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-cp1256.h - CP1256 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-iso8859-6.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-iso8859-6.c - ISO8859-6 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-iso8859-6.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-iso8859-6.h - ISO8859-6 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-iso8859-8.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-iso8859-8.c - ISO8859-8 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-iso8859-8.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-iso8859-8.h - ISO8859-8 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-list.h:2-27
+
+/* FriBidi
+ * fribidi-char-sets-list.h - list of supported character sets
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-utf8.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets-utf8.c - UTF-8 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets-utf8.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets-utf8.h - UTF-8 character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets.c:1-28
+
+/* FriBidi
+ * fribidi-char-sets.c - character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-char-sets.h:1-28
+
+/* FriBidi
+ * fribidi-char-sets.h - character set conversion routines
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-common.h:1-25
+
+/* FriBidi
+ * fribidi-common.h - common include for library headers
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-deprecated.c:1-28
+
+/* FriBidi
+ * fribidi-deprecated.c - deprecated interfaces.
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-deprecated.h:1-26
+
+/* FriBidi
+ * fribidi-deprecated.h - Deprecated interfaces
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004, 2005
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2004, 2005 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-flags.h:1-25
+
+/* FriBidi
+ * fribidi-flags.h - option flags
+ *
+ * Author:
+ *   Behdad Esfahbod, 2005
+ *
+ * Copyright (C) 2005 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-joining-types-list.h:2-27
+
+/* FriBidi
+ * fribidi-joining-types-list.h - list of joining types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2004 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-joining-types.c:1-26
+
+/* FriBidi
+ * fribidi-joining-types.c - character joining types
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-joining-types.h:1-26
+
+/* FriBidi
+ * fribidi-joining-types.h - character joining types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-joining.c:1-26
+lib/fribidi-joining.h:1-26
+
+/* FriBidi
+ * fribidi-joining.h - Arabic joining algorithm
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2004 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-mirroring.c:1-29
+
+/* fribidi-mirroring.c - get mirrored character
+ *
+ * Copyright (C) 2004  Sharif FarsiWeb, Inc
+ * Copyright (C) 2001, 2002, 2004  Behdad Esfahbod
+ * Copyright (C) 1999, 2000, 2017  Dov Grobgeld
+ *
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ *
+ * Author(s):
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ */
+
+lib/fribidi-mirroring.h:1-29
+
+/* fribidi-mirroring.h - get mirrored character
+ *
+ * Copyright (C) 2004  Sharif FarsiWeb, Inc
+ * Copyright (C) 2001, 2002, 2004  Behdad Esfahbod
+ * Copyright (C) 1999, 2000, 2017  Dov Grobgeld
+ * 
+ * This file is part of GNU FriBidi.
+ * 
+ * GNU FriBidi is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License
+ * as published by the Free Software Foundation; either version 2.1
+ * of the License, or (at your option) any later version.
+ * 
+ * GNU FriBidi is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with GNU FriBidi; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com> or write to
+ * Sharif FarsiWeb, Inc., PO Box 13445-389, Tehran, Iran.
+ *
+ * Author(s):
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ */
+
+lib/fribidi-run.c:1-28
+
+/* FriBidi
+ * fribidi-run.c - text run data type
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000, 2017
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000,2017 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-shape.c:1-26
+
+/* FriBidi
+ * fribidi-shape.c - shaping
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2005 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-shape.h:1-26
+
+/* FriBidi
+ * fribidi-shape.h - shaping
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004, 2005
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2004, 2005 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-types.h:1-26
+
+/* FriBidi
+ * fribidi-types.h - define data types for the rest of the library
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi-unicode.h:1-26
+
+/* FriBidi
+ * fribidi-unicode.h - general Unicode definitions
+ *
+ * Author:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi.c:1-28
+
+/* FriBidi
+ * fribidi.c - Unicode bidirectional and Arabic joining/shaping algorithms
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/fribidi.c:307-314
+
+  "Copyright (C) 2004  Sharif FarsiWeb, Inc.\n"
+  "Copyright (C) 2001, 2002, 2004, 2005  Behdad Esfahbod\n"
+  "Copyright (C) 1999, 2000, 2017, 2018, 2019  Dov Grobgeld\n"
+  FRIBIDI_NAME " comes with NO WARRANTY, to the extent permitted by law.\n"
+  "You may redistribute copies of " FRIBIDI_NAME " under\n"
+  "the terms of the GNU Lesser General Public License.\n"
+  "For more information about these matters, see the file named COPYING.\n\n"
+  "Written by Behdad Esfahbod and Dov Grobgeld.\n";
+
+lib/fribidi.h:1-25
+
+/* FriBidi
+ * fribidi.h - Unicode bidirectional and Arabic joining/shaping algorithms
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/joining-types.h:1-26
+
+/* FriBidi
+ * joining-types.h - define internal joining types
+ *
+ * Author:
+ *   Behdad Esfahbod, 2004
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc.
+ * Copyright (C) 2004 Behdad Esfahbod
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ *
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+lib/run.h:1-28
+
+/* FriBidi
+ * run.h - text run data type
+ *
+ * Authors:
+ *   Behdad Esfahbod, 2001, 2002, 2004
+ *   Dov Grobgeld, 1999, 2000
+ *
+ * Copyright (C) 2004 Sharif FarsiWeb, Inc
+ * Copyright (C) 2001,2002 Behdad Esfahbod
+ * Copyright (C) 1999,2000 Dov Grobgeld
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this library, in a file named COPYING; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301, USA
+ * 
+ * For licensing issues, contact <fribidi.license@gmail.com>.
+ */
+
+unicode-3-2026.txt
+Source: https://www.unicode.org/license.txt
+
+UNICODE LICENSE V3
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2026 Unicode, Inc.
+
+NOTICE TO USER: Carefully read the following legal agreement. BY
+DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR
+SOFTWARE, YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE
+TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of data files and any associated documentation (the "Data Files") or
+software and any associated documentation (the "Software") to deal in the
+Data Files or Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, and/or sell
+copies of the Data Files or Software, and to permit persons to whom the
+Data Files or Software are furnished to do so, provided that either (a)
+this copyright and permission notice appear with all copies of the Data
+Files or Software, or (b) this copyright and permission notice appear in
+associated Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+THIRD PARTY RIGHTS.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
+BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
+FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall
+not be used in advertising or otherwise to promote the sale, use or other
+dealings in these Data Files or Software without prior written
+authorization of the copyright holder.
+

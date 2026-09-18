@@ -1,17 +1,17 @@
 [
   {
-    "release": "ios-1.2.0-16",
-    "name": "RemoteFS-iOS-1.2.0-16-device-relink.tar.gz",
-    "bytes": 47590387,
-    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.0-16/RemoteFS-iOS-1.2.0-16-device-relink.tar.gz",
-    "sha256": "084baa53d8bc7e71c77917d0f2949f94b71485619163f2a9ce98740018aedfa7"
+    "release": "ios-1.2.0-17",
+    "name": "RemoteFS-iOS-1.2.0-17-device-relink.tar.gz",
+    "bytes": 47996893,
+    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.0-17/RemoteFS-iOS-1.2.0-17-device-relink.tar.gz",
+    "sha256": "c9e291acc23c115984b1ca4d63c46d0ea619e67341ace3965993d18f62573d67"
   },
   {
-    "release": "macos-1.2.0-2026.9.18",
-    "name": "RemoteFS-macOS-1.2.0-2026.9.18-relink.tar.gz",
-    "bytes": 47975678,
-    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.0-2026.9.18/RemoteFS-macOS-1.2.0-2026.9.18-relink.tar.gz",
-    "sha256": "309a20a436babeb12142e6c5a955f9dc10c1610cc0bd8193999b8ad184d39803"
+    "release": "macos-1.2.0-2026.9.19",
+    "name": "RemoteFS-macOS-1.2.0-2026.9.19-relink.tar.gz",
+    "bytes": 48389184,
+    "url": "https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.0-2026.9.19/RemoteFS-macOS-1.2.0-2026.9.19-relink.tar.gz",
+    "sha256": "ef366b797719284236dc116299344a28e4a81c2b0dfcc2b0a8f86597c6464fa5"
   },
   {
     "release": "decoder-apple-system-20260910",
