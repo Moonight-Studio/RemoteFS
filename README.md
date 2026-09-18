@@ -16,4 +16,17 @@ This is a new public support repository. It contains materials for the latest se
 
 Edit `content/*.md`, run `python3 build.py`, and commit the generated HTML with the source. GitHub Pages deploys the root of `main`. No external scripts, fonts, analytics, or package installation are required.
 
-For each app release, publish the exact verified relinking kit as a Release asset; update `downloads.json` and `content/downloads.md` with its platform, version, build and hash. Never upload app source, signing credentials, review credentials, or customer data. Do not replace historical archives with materials for a different build.
+Publish by material content, not by application build number. Reuse unchanged
+licenses, decoder sources, frameworks and instructions at their existing URLs.
+Only update the fixed license catalogs when their content changes. Historical
+notice directories remain available for compatibility and are no longer copied
+for each TestFlight build.
+
+When application object files or resources actually change, publish the necessary
+matching relinking attachment through Releases. Compare content hashes first and
+reuse an identical existing artifact. Binary archives never belong in Git.
+The stable downloads page links to Releases; per-build verification records are
+kept in the private application repository. Public titles use
+`RemoteFS iOS 1.2.1 · Build 17`; filenames and tags use ASCII hyphens.
+Never upload application source, signing credentials, review credentials or
+customer data. Do not replace an existing attachment with different contents.

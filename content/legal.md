@@ -5,7 +5,7 @@ materials for RemoteFS. The RemoteFS application source repository remains priva
 
 ## Downloads
 
-[Current versioned materials and SHA-256 checksums](downloads.html). Choose the exact platform, version and build shown in your app. Earlier release kits are not included in this new repository.
+[Source and relinking downloads](downloads.html). Choose materials matching your application from Releases. Unchanged dependencies use the existing shared materials.
 
 ## Library Modification
 
@@ -45,14 +45,11 @@ Do not post server passwords or private files in an issue.
 版本和构建号一致的材料。你可以为自己使用修改解码库并重新链接应用，也可以为
 调试这些修改进行必要的逆向工程。第三方组件仍适用各自的许可条款。
 
-## Bundled notices: ios-1.2.1-17
+## Component licenses
 
-[Component inventory and license file references](notices/ios-1.2.1-17/index.json). Exact older inventories remain inside the matching release kits.
+- [iOS third-party licenses](licenses-ios.html)
+- [macOS third-party licenses](licenses-macos.html)
 
-## Bundled notices: macos-1.2.1-2026.9.19
-
-[Component inventory and license file references](notices/macos-1.2.1-2026.9.19/index.json). Exact older inventories remain inside the matching release kits.
-
-[Browse macos-1.2.1-2026.9.19 license documents](notices-macos-1.2.1-2026.9.19.html)
-
-[Browse ios-1.2.1-17 license documents](notices-ios-1.2.1-17.html)
+These catalogs change when dependencies or license terms change. Exact historical
+inventories are included in their matching relinking archives. Unchanged source,
+license and framework materials are shared across application builds.

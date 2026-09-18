@@ -1,35 +1,28 @@
-# Source & relinking downloads
+# Source and relinking materials
 
-Materials for iOS 1.2.1 (17) and macOS 1.2.1 (2026.9.19). Choose the matching app kit and the shared decoder sources below. Publishing materials does not itself announce App Store availability.
+[Browse release materials](https://github.com/Moonight-Studio/RemoteFS/releases)
 
-## ios-1.2.1-17
+Choose the platform and build matching your application. Each changed application
+kit includes its component inventory, replacement instructions and checksum.
+Materials that have not changed are reused across builds; a new application
+version does not automatically require a new source or license archive.
 
-[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/ios-1.2.1-17)
+## Shared decoder sources
 
-- [RemoteFS-iOS-1.2.1-17-device-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.1-17/RemoteFS-iOS-1.2.1-17-device-relink.tar.gz) — 47,996,707 bytes
+[Decoder source and framework materials](https://github.com/Moonight-Studio/RemoteFS/releases/tag/decoder-apple-system-20260910)
 
-SHA-256: `494320a0e89043959fcd790992131e20f5a73561f2c3ff867a0bf015533326b9`
+These existing materials are shared by builds using the same decoder. Download
+only the source and platform framework required by your kit's instructions.
 
-## macos-1.2.1-2026.9.19
+## Licenses and support
 
-[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/macos-1.2.1-2026.9.19)
+- [Library modification and relinking permissions](legal.html)
+- [iOS component licenses](licenses-ios.html)
+- [macOS component licenses](licenses-macos.html)
+- [Contact support](support.html)
 
-- [RemoteFS-macOS-1.2.1-2026.9.19-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.1-2026.9.19/RemoteFS-macOS-1.2.1-2026.9.19-relink.tar.gz) — 48,388,686 bytes
+## 中文
 
-SHA-256: `423688bd55347a6a9d9bc62bd9042ab47535ac574a291f46e6336e43bd8b62b8`
-
-## decoder-apple-system-20260910
-
-[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/decoder-apple-system-20260910)
-
-- [MobileVLCKit-remotefs-apple-system.tar.xz](https://github.com/Moonight-Studio/RemoteFS/releases/download/decoder-apple-system-20260910/MobileVLCKit-remotefs-apple-system.tar.xz) — 35,923,032 bytes
-
-SHA-256: `de5eaaaeef319bbf4787b02cfd1b3e4b75da726263b769af81249f434f422b8a`
-
-- [remotefs-decoder-sources-0b0bdb3c144f0736.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/decoder-apple-system-20260910/remotefs-decoder-sources-0b0bdb3c144f0736.tar.gz) — 85,545,252 bytes
-
-SHA-256: `cfe21a8203bcdcf1ff5bf2e9b6accf953b5a3fcfcc76d2c03a485ed2089b0068`
-
-- [VLCKit-remotefs-apple-system.tar.xz](https://github.com/Moonight-Studio/RemoteFS/releases/download/decoder-apple-system-20260910/VLCKit-remotefs-apple-system.tar.xz) — 18,533,456 bytes
-
-SHA-256: `7fa56974de97b6c80115e791fe374a035abe6ced7fa34db9b0ab46341db4a173`
+[查看发布材料](https://github.com/Moonight-Studio/RemoteFS/releases)，选择与你的应用匹配的平台和构建。
+未变化的许可、依赖源码、框架和说明直接沿用已有材料，不随测试构建重复发布。
+只有实际改变的配套材料才新增附件；应用主项目源码保持私有。
