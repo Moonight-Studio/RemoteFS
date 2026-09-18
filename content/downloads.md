@@ -1,22 +1,22 @@
 # Source & relinking downloads
 
-Materials for iOS 1.2.0 (17) and macOS 1.2.0 (2026.9.19). Choose the matching app kit and the shared decoder sources below. Publishing materials does not itself announce App Store availability.
+Materials for iOS 1.2.1 (17) and macOS 1.2.1 (2026.9.19). Choose the matching app kit and the shared decoder sources below. Publishing materials does not itself announce App Store availability.
 
-## ios-1.2.0-17
+## ios-1.2.1-17
 
-[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/ios-1.2.0-17)
+[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/ios-1.2.1-17)
 
-- [RemoteFS-iOS-1.2.0-17-device-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.0-17/RemoteFS-iOS-1.2.0-17-device-relink.tar.gz) — 47,996,893 bytes
+- [RemoteFS-iOS-1.2.1-17-device-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/ios-1.2.1-17/RemoteFS-iOS-1.2.1-17-device-relink.tar.gz) — 47,996,707 bytes
 
-SHA-256: `c9e291acc23c115984b1ca4d63c46d0ea619e67341ace3965993d18f62573d67`
+SHA-256: `494320a0e89043959fcd790992131e20f5a73561f2c3ff867a0bf015533326b9`
 
-## macos-1.2.0-2026.9.19
+## macos-1.2.1-2026.9.19
 
-[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/macos-1.2.0-2026.9.19)
+[Release notes](https://github.com/Moonight-Studio/RemoteFS/releases/tag/macos-1.2.1-2026.9.19)
 
-- [RemoteFS-macOS-1.2.0-2026.9.19-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.0-2026.9.19/RemoteFS-macOS-1.2.0-2026.9.19-relink.tar.gz) — 48,389,184 bytes
+- [RemoteFS-macOS-1.2.1-2026.9.19-relink.tar.gz](https://github.com/Moonight-Studio/RemoteFS/releases/download/macos-1.2.1-2026.9.19/RemoteFS-macOS-1.2.1-2026.9.19-relink.tar.gz) — 48,388,686 bytes
 
-SHA-256: `ef366b797719284236dc116299344a28e4a81c2b0dfcc2b0a8f86597c6464fa5`
+SHA-256: `423688bd55347a6a9d9bc62bd9042ab47535ac574a291f46e6336e43bd8b62b8`
 
 ## decoder-apple-system-20260910
 

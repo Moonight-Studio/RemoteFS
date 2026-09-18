@@ -1,0 +1,1428 @@
+ebml additional source notices
+
+Exact original notice comments from the source/header inputs correlated to the macOS, iOS and simulator contrib archives. All listed full source hashes agree across the three configured trees. Full primary license documents are also retained. Conditional code and shared headers may be conservative inclusions; this attribution inventory is not final-link retention, patent clearance or complete distribution approval.
+
+ebml/c/libebml_t.h:1-42
+
+/****************************************************************************
+** LIBEBML : parse EBML files, see http://ebml.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2003 Steve Lhomme.  All rights reserved.
+**
+** This file is part of LIBEBML.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+    \file libebml_t.h
+    \version \$Id: libebml_t.h 1298 2008-02-21 22:14:18Z mosu $
+    \author Steve Lhomme     <robux4 @ users.sf.net>
+    \author Ingo Ralf Blum   <ingoralfblum @ users.sf.net>
+    \author Moritz Bunkus <moritz@bunkus.org>
+
+    \brief Misc type definitions for the C API of LIBEBML
+
+    \note These types should be compiler/language independant (just platform dependant)
+    \todo recover the sized types (uint16, int32, etc) here too (or maybe here only)
+*/
+
+ebml/Debug.h:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: Debug.h 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+ebml/EbmlBinary.h:1-36
+src/EbmlBinary.cpp:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Julien Coloos  <suiryc @ users.sf.net>
+*/
+
+ebml/EbmlConfig.h:1-34
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlConfig.h 1241 2006-01-25 00:59:45Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+ebml/EbmlContexts.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlContexts.h 736 2004-08-28 14:05:09Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlCrc32.h:1-36
+src/EbmlUnicodeString.cpp:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Jory Stone       <jcsston @ toughguy.net>
+*/
+
+ebml/EbmlDate.h:1-33
+ebml/EbmlElement.h:1-33
+src/EbmlElement.cpp:1-33
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlDummy.h:1-35
+ebml/EbmlFloat.h:1-35
+ebml/EbmlStream.h:1-35
+ebml/EbmlString.h:1-35
+ebml/EbmlVersion.h:1-35
+src/EbmlDummy.cpp:1-35
+src/EbmlFloat.cpp:1-35
+src/EbmlMaster.cpp:1-35
+src/EbmlStream.cpp:1-35
+src/EbmlString.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlEndian.h:1-37
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+    \file
+    \version \$Id: EbmlEndian.h 1298 2008-02-21 22:14:18Z mosu $
+    \author Ingo Ralf Blum   <ingoralfblum @ users.sf.net>
+    \author Lasse Kärkkäinen <tronic @ users.sf.net>
+    \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlHead.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlHead.h 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlId.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlId.h 936 2004-11-10 20:46:28Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlMaster.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlMaster.h 1232 2005-10-15 15:56:52Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlSInteger.h:1-37
+ebml/EbmlUInteger.h:1-37
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Julien Coloos    <suiryc @ users.sf.net>
+  \author Moritz Bunkus    <moritz @ bunkus.org>
+*/
+
+ebml/EbmlSubHead.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlSubHead.h 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/EbmlTypes.h:1-32
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlTypes.h 639 2004-07-09 20:59:14Z mosu $
+*/
+
+ebml/EbmlUnicodeString.h:1-37
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+  \author Jory Stone       <jcsston @ toughguy.net>
+*/
+
+ebml/EbmlVoid.h:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlVoid.h 1079 2005-03-03 13:18:14Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+ebml/IOCallback.h:1-32
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Ingo Ralf Blum.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: IOCallback.h 639 2004-07-09 20:59:14Z mosu $
+*/
+
+ebml/MemIOCallback.h:1-33
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2003-2004 Jory Stone.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: MemIOCallback.h 1298 2008-02-21 22:14:18Z mosu $
+  \author Jory Stone <jcsston @ toughguy.net>
+*/
+
+ebml/MemReadIOCallback.h:1-32
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2014 Moritz Bunkus.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.matroska.org/license/lgpl/ for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \author Moritz Bunkus <moritz@bunkus.org>
+*/
+
+ebml/SafeReadIOCallback.h:1-35
+src/MemReadIOCallback.cpp:1-35
+src/SafeReadIOCallback.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2014 Moritz Bunkus.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.matroska.org/license/lgpl/ for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Moritz Bunkus <moritz@bunkus.org>
+*/
+
+ebml/StdIOCallback.h:1-32
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Ingo Ralf Blum.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: StdIOCallback.h 1090 2005-03-16 12:47:59Z robux4 $
+*/
+
+src/Debug.cpp:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: Debug.cpp 1268 2007-01-19 10:15:08Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+src/EbmlContexts.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlContexts.cpp 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/EbmlCrc32.cpp:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlCrc32.cpp 1155 2005-05-06 11:43:38Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Jory Stone       <jcsston @ toughguy.net>
+*/
+
+src/EbmlDate.cpp:1-33
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlDate.cpp 1079 2005-03-03 13:18:14Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/EbmlHead.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlHead.cpp 1096 2005-03-17 09:14:52Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/EbmlSInteger.cpp:1-34
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+src/EbmlSubHead.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlSubHead.cpp 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/EbmlUInteger.cpp:1-36
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id$
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+src/EbmlVersion.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlVersion.cpp 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/EbmlVoid.cpp:1-35
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2010 Steve Lhomme.  All rights reserved.
+**
+** This file is part of libebml.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: EbmlVoid.cpp 1232 2005-10-15 15:56:52Z robux4 $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+*/
+
+src/IOCallback.cpp:1-34
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Ingo Ralf Blum.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: IOCallback.cpp 639 2004-07-09 20:59:14Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/
+
+src/lib/utf8-cpp/source/utf8/checked.h:1-25
+
+// Copyright 2006-2016 Nemanja Trifunovic
+
+/*
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+*/
+
+src/lib/utf8-cpp/source/utf8/core.h:1-25
+
+// Copyright 2006 Nemanja Trifunovic
+
+/*
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+*/
+
+src/lib/utf8-cpp/source/utf8/cpp11.h:1-25
+
+// Copyright 2018 Nemanja Trifunovic
+
+/*
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+*/
+
+src/MemIOCallback.cpp:1-33
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2003 Jory Stone.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: MemIOCallback.cpp 693 2004-07-31 08:56:28Z robux4 $
+  \author Jory Stone <jcsston @ toughguy.net>
+*/
+
+src/StdIOCallback.cpp:1-34
+
+/****************************************************************************
+** libebml : parse EBML files, see http://embl.sourceforge.net/
+**
+** <file/class description>
+**
+** Copyright (C) 2002-2004 Ingo Ralf Blum.  All rights reserved.
+**
+** This library is free software; you can redistribute it and/or
+** modify it under the terms of the GNU Lesser General Public
+** License as published by the Free Software Foundation; either
+** version 2.1 of the License, or (at your option) any later version.
+**
+** This library is distributed in the hope that it will be useful,
+** but WITHOUT ANY WARRANTY; without even the implied warranty of
+** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+** Lesser General Public License for more details.
+**
+** You should have received a copy of the GNU Lesser General Public
+** License along with this library; if not, write to the Free Software
+** Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+**
+** See http://www.gnu.org/licenses/lgpl-2.1.html for LGPL licensing information.
+**
+** Contact license@matroska.org if any conditions of this licensing are
+** not clear to you.
+**
+**********************************************************************/
+
+/*!
+  \file
+  \version \$Id: StdIOCallback.cpp 1298 2008-02-21 22:14:18Z mosu $
+  \author Steve Lhomme     <robux4 @ users.sf.net>
+  \author Moritz Bunkus <moritz @ bunkus.org>
+*/

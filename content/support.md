@@ -69,6 +69,6 @@ On iPhone, open More → Duplicate Files; on iPad and Mac, choose Duplicate File
 
 ## Restore or permanently delete files
 
-iOS 1.2.0 (17) and macOS 1.2.0 (2026.9.19) move deleted files, folders and verified duplicate copies to remote Trash by default. On iPhone open More → Trash; on iPad and Mac choose Trash in the sidebar. Connect the storage location to restore items or permanently delete individual items with a separate confirmation. Restore refuses existing names and requires the original parent folder.
+iOS 1.2.1 (17) and macOS 1.2.1 (2026.9.19) move deleted files, folders and verified duplicate copies to remote Trash by default. On iPhone open More → Trash; on iPad and Mac choose Trash in the sidebar. Connect the storage location to restore items or permanently delete individual items with a separate confirmation. Restore refuses existing names and requires the original parent folder.
 
 Trash is stored on the server, persists across reconnects and is never emptied automatically. It still uses storage until permanently deleted; other authorized clients can access it. Removing a connection does not empty its remote Trash. Server snapshots or the server’s own recycle policy may retain data after permanent deletion.
